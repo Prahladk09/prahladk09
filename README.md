@@ -2,10 +2,6 @@
 
 ## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Prahlad Kumar](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-
-<!-- [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nazir__Hussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
- -->
 ### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
 <ul>
  <li>I have completed my Bachelor of Technology with Computer Science and Engineering from Maharaja Ranjit Singh Punjab Technical University.</li>
@@ -17,7 +13,7 @@
 <img align="right" alt="prahlad-doodle" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56648155/147669054-84544ffd-5a37-4b33-aa23-4810eaa8d33b.png">
 
 
-- 🔭 I launched my first webapp: [Emoji Search][https://searchemoji.netlify.app/]!
+- 🔭 I launched my first webapp: [Emoji Search][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: prahladk09@gmail.com.
