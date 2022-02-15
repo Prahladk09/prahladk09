@@ -90,17 +90,18 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 [linkedin]: https://www.linkedin.com/in/theprahladkumar/
  
 ## 🏆 *Github Status*
-
+<!--
 <img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=dark" width="48%" >
 <br>
+-->
  
  <!--START_SECTION:waka-->
 ## Coding Stats📈📊
- 
+ <!--
 <p align="center" >
 <img alt=" Prahlad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
-</p>
+</p> -->
 <!--END_SECTION:waka--> 
 
 ### Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
