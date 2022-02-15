@@ -23,10 +23,10 @@
 ### Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/thenazirhussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Bugra_2426"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.instagram.com/nazir__hassan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/theprahladkumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Prahladk09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/prahlad.kumar.545402/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/prahladgupta_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br />
 
  
@@ -84,11 +84,10 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 </details>
 
 [website]: https://chillthemind.blogspot.com
-[course]: https://thenazirhussain.blogspot.com
-[twitter]: https://twitter.com/Nazir__Hussain
-[youtube]: https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q
-[instagram]: https://www.instagram.com/nazir__hassan
-[linkedin]: https://linkedin.com/in/thenazirhussain
+[course]: https://searchemoji.netlify.app/
+[twitter]: https://twitter.com/Prahladk09
+[instagram]: https://www.instagram.com/prahladgupta_/
+[linkedin]: https://www.linkedin.com/in/theprahladkumar/
  
 ## 🏆 *Github Status*
 
@@ -100,7 +99,7 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 ## Coding Stats📈📊
  
 <p align="center" >
-<img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
+<img alt=" Prahlad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
 </p>
 <!--END_SECTION:waka--> 
 
