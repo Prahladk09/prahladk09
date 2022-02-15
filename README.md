@@ -1,7 +1,6 @@
-<img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
+<!-- <img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" /> -->
 
-## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Nazir  Hussain](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-
+## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Prahlad Kumar](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 
 <!-- [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
@@ -9,19 +8,19 @@
  -->
 ### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
 <ul>
- <li>I did my gradution in Bachelor of Technology from Maharaja Ranjit Singh Punjab Technical University.</li>
-<li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
+ <li>I have completed my Bachelor of Technology with Computer Science and Engineering from Maharaja Ranjit Singh Punjab Technical University.</li>
+<li>I am passionate about Frontend Development as best UI designing and making Open Source contributions.</li>
 <li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
   </ul>
 
 ## I'm a Student, Developer, and Learner!!
-<img align="right" alt="Nazir-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56648155/147669054-84544ffd-5a37-4b33-aa23-4810eaa8d33b.png">
+<img align="right" alt="prahlad-doodle" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56648155/147669054-84544ffd-5a37-4b33-aa23-4810eaa8d33b.png">
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I launched my first webapp: [Emoji Search][https://searchemoji.netlify.app/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me: nhussainkhan10@gmail.com.
+- 📫 How to reach me: prahladk09@gmail.com.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
 
