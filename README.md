@@ -9,7 +9,7 @@
 <li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
   </ul>
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Developer and Learner!!
 <img align="right" alt="prahlad-doodle" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56648155/147669054-84544ffd-5a37-4b33-aa23-4810eaa8d33b.png">
 
 
@@ -94,20 +94,5 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 <img  src="https://github-readme-stats.vercel.app/api?username=Prahladk09&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Prahladk09&theme=dark" width="48%" >
 <br>
-
- 
- <!--START_SECTION:waka-->
-## Coding Stats📈📊
-
-<p align="center" >
-<img alt=" Prahlad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prahladk09&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
-</p> 
-<!--END_SECTION:waka--> 
-
-### Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
-
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
- 
  
 <h2 align="center">Give some ❤ Give some ⭐</h2>
